@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Ahmad Naji — Computer Science and Web Development" width="100%" />
+  <img src="./header.svg" alt="Ahmad Naji — Computer Science and Web Development" width="100%" />
 </p>
 
 <p align="center">
@@ -44,13 +44,13 @@ I'm currently working on a **MERN stack project** and learning **Django** and **
 
 ## Technologies
 
-| Area | Technologies |
-| :--- | :--- |
+| Area      | Technologies                               |
+| :-------- | :----------------------------------------- |
 | Front end | HTML, CSS, JavaScript, React, Tailwind CSS |
-| Back end | Python, Node.js, Express |
-| Databases | PostgreSQL, MySQL, MongoDB |
-| Tools | Git, GitHub, Postman |
-| Learning | Django, Next.js |
+| Back end  | Python, Node.js, Express                   |
+| Databases | PostgreSQL, MySQL, MongoDB                 |
+| Tools     | Git, GitHub, Postman                       |
+| Learning  | Django, Next.js                            |
 
 ## Contribution activity
 
