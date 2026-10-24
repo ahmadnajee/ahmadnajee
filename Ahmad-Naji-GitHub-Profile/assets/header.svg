@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+<title id="title">Ahmad Naji — Web Developer</title>
+<desc id="desc">A navy banner with teal and violet accents. Computer Science. Building for the web.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#171b35"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+</defs>
+<rect width="1280" height="340" rx="16" fill="url(#bg)"/>
+<rect width="1280" height="340" rx="16" fill="url(#grid)"/>
+<rect x="52" y="52" width="40" height="4" rx="2" fill="url(#accent)"/>
+<text x="52" y="100" font-family="DejaVu Sans, sans-serif" font-size="15" letter-spacing="3" fill="#8da2bc">COMPUTER SCIENCE / WEB DEVELOPMENT</text>
+<text x="48" y="183" font-family="DejaVu Sans, sans-serif" font-size="66" font-weight="700" letter-spacing="-2" fill="#f1f5f9">Ahmad Naji<tspan fill="#5eead4">.</tspan></text>
+<text x="52" y="230" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#b7c5d9">Building for the web. Learning with purpose.</text>
+<text x="52" y="287" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#7d91ac">PYTHON   /   JAVASCRIPT   /   REACT</text>
+<circle cx="1090" cy="172" r="104" fill="none" stroke="#a78bfa" stroke-opacity=".16"/>
+<circle cx="1090" cy="172" r="78" fill="#121b30" stroke="#5eead4" stroke-opacity=".25"/>
+<text x="1090" y="194" text-anchor="middle" font-family="DejaVu Sans Mono, monospace" font-size="60" fill="url(#accent)">&lt;/&gt;</text>
+<circle cx="1090" cy="68" r="5" fill="#a78bfa"/><circle cx="1194" cy="172" r="5" fill="#5eead4"/>
+<rect x="52" y="329" width="1176" height="2" rx="1" fill="url(#accent)" opacity=".65"/>
+</svg>
